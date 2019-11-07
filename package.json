@@ -1,0 +1,16 @@
+{
+  "name": "test-csv",
+  "version": "1.0.0",
+  "description": "Converts multiple csv files into one csv",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cole Larsen",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.6.5",
+    "fs": "0.0.1-security"
+  }
+}
